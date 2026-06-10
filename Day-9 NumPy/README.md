@@ -1,11 +1,12 @@
 # <div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="180"/>
 
-# NumPy 🚀
+# NumPy
 
 ### The Fundamental Package for Scientific Computing in Python
-
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4DABF7&center=true&vCenter=true&width=800&lines=Fast+Numerical+Computing;Powerful+N-Dimensional+Arrays;Linear+Algebra+Operations;Scientific+Computing+Made+Easy" />
 
 <p align="center">

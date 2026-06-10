@@ -6,9 +6,9 @@
 # NumPy
 
 ### The Fundamental Package for Scientific Computing in Python
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4DABF7&center=true&vCenter=true&width=800&lines=Fast+Numerical+Computing;Powerful+N-Dimensional+Arrays;Linear+Algebra+Operations;Scientific+Computing+Made+Easy" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4DABF7&center=true&vCenter=true&width=800&lines=Fast+Numerical+Computing;Powerful+N-Dimensional+Arrays;Linear+Algebra+Operations;Scientific+Computing+Made+Easy" />
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/NumPy-Latest-blue?style=for-the-badge&logo=numpy"/>

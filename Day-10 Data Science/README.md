@@ -1,6 +1,6 @@
 # <div align="center">
 <div align="center">
-# 📊 Data Science
+# Data Science
 
 ### Turning Data Into Insights, Decisions & Innovation
 

@@ -8,7 +8,7 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" width="50"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="50"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" width="50"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="50"/>
+  
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="50"/>
